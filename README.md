@@ -1,4 +1,4 @@
-# Scrimba React Props and Styling Practice
+# Scrimba React Component State
 
 ## Getting Started with Create React App
 
